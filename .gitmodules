@@ -4,3 +4,6 @@
 [submodule "azure-cli-practic"]
 	path = azure-cli-practic
 	url = https://github.com/nddnam/-cloud-azure-cli-practice
+[submodule "cloud-azure-arm-template"]
+	path = cloud-azure-arm-template
+	url = https://github.com/nddnam/cloud-azure-arm-template
