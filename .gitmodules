@@ -1,0 +1,3 @@
+[submodule "azure-static-web-app"]
+	path = azure-static-web-app
+	url = https://github.com/nddnam/-cloud-azure-static-web-app
