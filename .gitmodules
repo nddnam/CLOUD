@@ -1,3 +1,6 @@
 [submodule "azure-static-web-app"]
 	path = azure-static-web-app
 	url = https://github.com/nddnam/-cloud-azure-static-web-app
+[submodule "azure-cli-practic"]
+	path = azure-cli-practic
+	url = https://github.com/nddnam/-cloud-azure-cli-practice
